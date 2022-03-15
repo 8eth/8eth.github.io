@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 8eth
 
 You can use the [editor on GitHub](https://github.com/8eth/8eth.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
