@@ -1,3 +1,5 @@
+# 8eth
+
 ## Links
 
 - Linkedin https://www.linkedin.com/in/beth-fekadu
@@ -5,7 +7,7 @@
 - Blog https://dev.to/8eth
 
 
-## My Projects
+## Projects
 
 ### Tea Rater 
 - GitHub https://github.com/8eth/tea_rater
