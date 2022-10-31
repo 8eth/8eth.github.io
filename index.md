@@ -1,17 +1,14 @@
 # 8eth
 
-## Links
+Beth Fekadu
 
-- Linkedin https://www.linkedin.com/in/beth-fekadu
-- GitHub https://github.com/8eth
-- Blog https://dev.to/8eth
+[Linkedin](https://www.linkedin.com/in/beth-fekadu) | [GitHub](https://github.com/8eth) | [Blog](https://dev.to/8eth)
 
 
 ## Projects
 
 ### Tea Rater 
-- GitHub https://github.com/8eth/tea_rater
-- Deployed App https://tea-rater.herokuapp.com/
+[GitHub](https://github.com/8eth/tea_rater) | [Deployed App](https://tea-rater.herokuapp.com/)
 
 An application designed to browse different kinds of Smith Tea (a Shopify store) and share reviews with other users
 
@@ -21,8 +18,7 @@ An application designed to browse different kinds of Smith Tea (a Shopify store)
 - Utilized postgresql and Heroku to deploy the application
 
 ### Fur Baby Sitters Club 
-- GitHub https://github.com/8eth/furbaby_sitters_club
-- Deployed App https://furbaby-sitters-club.herokuapp.com/
+[GitHub](https://github.com/8eth/furbaby_sitters_club) | [Deployed App](https://furbaby-sitters-club.herokuapp.com/)
 
 An application designed to book a pet-sitting session with a specific pet-sitter
 
@@ -32,15 +28,14 @@ An application designed to book a pet-sitting session with a specific pet-sitter
 - Utilized postgresql and Heroku to deploy the application
 
 ### Event Website 
-- GitHub: Front End https://github.com/8eth/event-website-front-end
-- GitHub: Back End https://github.com/8eth/event-website-back-end
+[GitHub: Front End](https://github.com/8eth/event-website-front-end) | [GitHub: Back End](https://github.com/8eth/event-website-back-end)
 
 A guest view of an event website
 - Designed a React application to allow guests to view details of an event, RSVP, and share pictures from the party
 - Utilized a Ruby backend with Sinatra and ActiveRecord to store event pictures and RSVP data
 
 ### Recipe Box 
-- GitHub https://github.com/8eth/recipe-box
+[GitHub](https://github.com/8eth/recipe-box)
 
 An application used to show and keep a list of recipes
 - Designed a React app with SemanticUI and JSON server to allow users to store their favorite recipes in one place
