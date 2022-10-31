@@ -1,37 +1,45 @@
-## 8eth
+## Links
 
-You can use the [editor on GitHub](https://github.com/8eth/8eth.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+- Linkedin https://www.linkedin.com/in/beth-fekadu
+- GitHub https://github.com/8eth
+- Blog https://dev.to/8eth
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## My Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Tea Rater 
+- GitHub https://github.com/8eth/tea_rater
+- Deployed App https://tea-rater.herokuapp.com/
 
-```markdown
-Syntax highlighted code block
+An application designed to browse different kinds of Smith Tea (a Shopify store) and share reviews with other users
 
-# Header 1
-## Header 2
-### Header 3
+- Developed a React application with a RESTful backend server using Ruby on Rails, enabling user signup and login
+- Incorporated persistent data storage with full CRUD of users’ tea reviews and tea ratings
+- Utilized MapBox to show an interactive map of origins of each tea saved in the database
+- Utilized postgresql and Heroku to deploy the application
 
-- Bulleted
-- List
+### Fur Baby Sitters Club 
+- GitHub https://github.com/8eth/furbaby_sitters_club
+- Deployed App https://furbaby-sitters-club.herokuapp.com/
 
-1. Numbered
-2. List
+An application designed to book a pet-sitting session with a specific pet-sitter
 
-**Bold** and _Italic_ and `Code` text
+- Developed a RESTful backend server using Ruby on Rails enabling user signup, login, and appointment booking
+- Designed a React app with a separate admin login view that shows all customers and their booked appointments
+- Utilized React Big Calendar to show availability of pet-sitters and book a pet-sitting appointment
+- Utilized postgresql and Heroku to deploy the application
 
-[Link](url) and ![Image](src)
-```
+### Event Website 
+- GitHub: Front End https://github.com/8eth/event-website-front-end
+- GitHub: Back End https://github.com/8eth/event-website-back-end
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+A guest view of an event website
+- Designed a React application to allow guests to view details of an event, RSVP, and share pictures from the party
+- Utilized a Ruby backend with Sinatra and ActiveRecord to store event pictures and RSVP data
 
-### Jekyll Themes
+### Recipe Box 
+- GitHub https://github.com/8eth/recipe-box
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/8eth/8eth.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+An application used to show and keep a list of recipes
+- Designed a React app with SemanticUI and JSON server to allow users to store their favorite recipes in one place
+- Allowed users to search for and to add specific recipes to “My Recipe List” to help with meal planning for the week
